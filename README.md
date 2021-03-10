@@ -8,17 +8,17 @@ there are 3 folders, train, test and val
 
 this is the directory structure of the dataset:
 
-hotdog_dataset
-|
-|---test
-|    |---hotdog
-|    |---not hotdog
-|---train
-|    |---hotdog
-|    |---not hotdog
-|---val
-|    |---hotdog
-|    |---pizza
+hotdog_dataset</br>
+|</br>
+|---test</br>
+|    |---hotdog</br>
+|    |---not hotdog</br>
+|---train</br>
+|    |---hotdog</br>
+|    |---not hotdog</br>
+|---val</br>
+|    |---hotdog</br>
+|    |---pizza</br>
 
 each folder 'hotdog','not hotdog','pizza' contains images the 'not hotdog' and 'pizza' both contains the images of pizza
 so we want to classify which are hotdog and pizza, which there are 2 labels in this classifier.
