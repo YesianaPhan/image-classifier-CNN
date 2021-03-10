@@ -11,8 +11,8 @@ this is the directory structure of the dataset:
 hotdog_dataset</br>
 |</br>
 |---test</br>
-| </pre>   |---hotdog</br>
-|    |---not hotdog</br>
+|     |---hotdog</br>
+|     |---not hotdog</br>
 |---train</br>
 |    |---hotdog</br>
 |    |---not hotdog</br>
